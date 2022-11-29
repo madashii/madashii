@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate fullsatck developer from Wild</h3>
 
-<img src="https://media.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif" />
+<div>
+<img align="right" src="https://media.giphy.com/media/hryis7A55UXZNCUTNA/giphy.gif" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madashii&label=Profile%20views&color=0e75b6&style=flat" alt="madashii" /> </p>
 
